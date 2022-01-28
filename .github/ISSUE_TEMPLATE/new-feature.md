@@ -1,11 +1,5 @@
----
-name: New Feature
-about: Feature creation
-title: ''
-labels: feature
-assignees: ''
+# O que a feature faz/precisa fazer?
+Descreva o que a feature faz/precisa fazer
 
----
-
-Descreva qual feature será implementada
-> Precisa ser criado uma rotina que atualiza dado X
+## Resultado esperado
+Uma descrição clara e concisa do que você esperava que acontecesse.
